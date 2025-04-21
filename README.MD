@@ -77,7 +77,7 @@ under the BSD 3-clause license. See the [LICENSE.md](LICENSE.md) file for more i
 
 ## Contact
 For any questions or further information, 
-please contact the [organizing team](mailto:karin.treyer@psi.ch).
+please contact the [organizing team](mailto:romain.sacchi@psi.ch).
 
 ## Requirements
 Please refer to the [INSTRUCTIONS.MD](INSTRUCTIONS.MD) file in this repository.
