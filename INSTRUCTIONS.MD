@@ -151,6 +151,16 @@ Check packages installed:
 conda list
 ```
 
+> [!IMPORTANT]  
+> Exceptionally, we will install a development version of `activity-browser`
+> to fix a bug related to Monte Carlo analysis. However, after this course,
+> you can use the stable version of `activity-browser` from the conda-forge channel (v.2.11.2).
+
+```bash
+conda create -n ab-dev -c mrvisscher -c conda-forge activity-browser-dev
+```
+
+
 ---
 
 ## STEP 4: IMPORT THE ECOINVENT DATABASE
